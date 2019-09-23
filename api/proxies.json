@@ -8,7 +8,7 @@
 								"GET"
 							]
 						},
-						"backendUri": "https://https://todolistyoanduboin.blob.core.windows.net/jshtml/index.html"
+						"backendUri": "https://todolistyoanduboin.blob.core.windows.net/jshtml"
 					},
 					"jsproxy": {
 						"matchCondition": {
@@ -17,7 +17,7 @@
 								"GET"
 							]
 						},
-						"backendUri": "https://https://todolistyoanduboin.blob.core.windows.net/jshtml/{restOfPath}"
+						"backendUri": "https://todolistyoanduboin.blob.core.windows.net/jshtml"
 					}
     }
 }
